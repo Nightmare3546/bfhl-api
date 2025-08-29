@@ -95,4 +95,4 @@ Click Execute → Get the JSON response.
 
 ✍️ Author
 
-Nightmare3546 (Dhruv Pisharody)
+Dhruv Pisharody
