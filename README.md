@@ -1,6 +1,6 @@
 BFHL API
 
-A simple FastAPI-based web service built for the Bajaj Finserv Hackathon Lab (BFHL) task.
+A simple FastAPI-based web service built.
 It takes an input list of strings and classifies them into numbers, alphabets, and special characters, while also computing additional metadata like sum of numbers and custom concatenated string.
 
 🚀 Deployment
