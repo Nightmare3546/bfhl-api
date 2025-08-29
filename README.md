@@ -63,12 +63,6 @@ Run the server locally:
 
 uvicorn main:app --reload
 
-
-Open in browser:
-
-http://127.0.0.1:8000/docs
-
-
 This opens the Swagger UI, where you can test the /bfhl endpoint.
 
 📦 Tech Stack
